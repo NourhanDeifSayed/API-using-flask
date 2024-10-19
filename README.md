@@ -28,9 +28,15 @@ and update data using data like
 http://127.0.0.1:5000/books/3
 
 
+![Screenshot 2024-10-19 140128](https://github.com/user-attachments/assets/8b6e6bd1-3b79-4553-a9e0-c4d808787e4c)
 
-![Screenshot 2024-10-19 140128](https://github.com/user-attachments/assets/b91cae61-801b-43fe-a774-54bf31e08dac)
+![Screenshot 2024-10-19 140143](https://github.com/user-attachments/assets/3d0c3893-9d0a-4aaa-82fe-6f2d5820d1e1)
+
+![Screenshot 2024-10-19 140154](https://github.com/user-attachments/assets/a687e130-c7c0-4d36-8172-4e619688d196)
+
+![Screenshot 2024-10-19 140200](https://github.com/user-attachments/assets/c485bc99-dc56-4a9f-ac7a-f94f95fae7ad)
+
+![Screenshot 2024-10-19 140207](https://github.com/user-attachments/assets/5d8458ad-5b8b-4821-b0a7-794a2138e04a)
 
 
-![Screenshot 2024-10-19 140200](https://github.com/user-attachments/assets/e1ec8495-2ffb-40ea-adaf-9fd1551e6d30)
 
